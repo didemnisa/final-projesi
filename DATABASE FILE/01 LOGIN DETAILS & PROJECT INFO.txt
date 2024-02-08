@@ -1,0 +1,21 @@
+
+**Database Name: dbtheatre**
+
+**Developed by Didem Nisa Karaca**
+
+**Recommended Python Version 3.x**
+
+**Use pip to install mysql-connector and flask**
+
+
+
+**Manager Login Details**
+
+Username: müdür
+Password: şifre123
+
+**Cashier Login Details**
+
+Username: kasiyer
+Password: kasiyer123
+
